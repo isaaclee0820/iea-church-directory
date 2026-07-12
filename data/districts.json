@@ -1,0 +1,657 @@
+[
+  {
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "churchCount": 5
+  },
+  {
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "churchCount": 6
+  },
+  {
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "churchCount": 5
+  },
+  {
+    "region": "ARUSHA",
+    "district": "MERU",
+    "churchCount": 12
+  },
+  {
+    "region": "ARUSHA",
+    "district": "MONDULI",
+    "churchCount": 2
+  },
+  {
+    "region": "ARUSHA",
+    "district": "NGORONGORO",
+    "churchCount": 2
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "churchCount": 13
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "churchCount": 12
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "churchCount": 10
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "churchCount": 5
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "churchCount": 11
+  },
+  {
+    "region": "DODOMA",
+    "district": "BAHI",
+    "churchCount": 5
+  },
+  {
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "churchCount": 19
+  },
+  {
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "churchCount": 15
+  },
+  {
+    "region": "DODOMA",
+    "district": "KITETO",
+    "churchCount": 7
+  },
+  {
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "churchCount": 21
+  },
+  {
+    "region": "DODOMA",
+    "district": "MPWAPWA",
+    "churchCount": 2
+  },
+  {
+    "region": "DODOMA",
+    "district": "URBAN",
+    "churchCount": 2
+  },
+  {
+    "region": "GEITA",
+    "district": "CHATO",
+    "churchCount": 5
+  },
+  {
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "churchCount": 9
+  },
+  {
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "churchCount": 8
+  },
+  {
+    "region": "GEITA",
+    "district": "NYANG’HWALE",
+    "churchCount": 3
+  },
+  {
+    "region": "IRINGA",
+    "district": "IRINGA MJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "IRINGA",
+    "district": "IRINGAVIJIJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "churchCount": 8
+  },
+  {
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "churchCount": 5
+  },
+  {
+    "region": "IRINGA",
+    "district": "MAFINGA",
+    "churchCount": 2
+  },
+  {
+    "region": "KAGERA",
+    "district": "BUKOBA URBAN",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "BUKOBA VIJIJINI",
+    "churchCount": 3
+  },
+  {
+    "region": "KAGERA",
+    "district": "MISENYI",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "churchCount": 5
+  },
+  {
+    "region": "KAGERA",
+    "district": "BAKOBA",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "KASHAI",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "KITENDAGURO",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "NYANGA",
+    "churchCount": 2
+  },
+  {
+    "region": "KAGERA",
+    "district": "KIBETA",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "ILEMELA",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "KATORO",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "RUBALE",
+    "churchCount": 1
+  },
+  {
+    "region": "KAGERA",
+    "district": "NYAKATO",
+    "churchCount": 1
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KASULU MJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "churchCount": 10
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "churchCount": 4
+  },
+  {
+    "region": "KIGOMA",
+    "district": "UVINZA",
+    "churchCount": 3
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KIBONDO",
+    "churchCount": 2
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KAKONKO",
+    "churchCount": 1
+  },
+  {
+    "region": "KIGOMA",
+    "district": "BUHIGWE",
+    "churchCount": 1
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "churchCount": 6
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "churchCount": 11
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "churchCount": 7
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI URBAN",
+    "churchCount": 2
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI RURAL",
+    "churchCount": 1
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "churchCount": 9
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "churchCount": 7
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI VIJIJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SENGEREMA MJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "USHIROMBO",
+    "churchCount": 3
+  },
+  {
+    "region": "MANYARA",
+    "district": "BABATI",
+    "churchCount": 8
+  },
+  {
+    "region": "MANYARA",
+    "district": "HANANG",
+    "churchCount": 6
+  },
+  {
+    "region": "MANYARA",
+    "district": "KITETO",
+    "churchCount": 3
+  },
+  {
+    "region": "MANYARA",
+    "district": "MBULU",
+    "churchCount": 2
+  },
+  {
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "churchCount": 5
+  },
+  {
+    "region": "MARA",
+    "district": "SERENGETI",
+    "churchCount": 3
+  },
+  {
+    "region": "MARA",
+    "district": "TARIME",
+    "churchCount": 10
+  },
+  {
+    "region": "MARA",
+    "district": "BUNDA",
+    "churchCount": 3
+  },
+  {
+    "region": "MARA",
+    "district": "MUSOMA",
+    "churchCount": 3
+  },
+  {
+    "region": "MARA",
+    "district": "RORYA",
+    "churchCount": 2
+  },
+  {
+    "region": "MARA",
+    "district": "BUTIAMA",
+    "churchCount": 3
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBEYA TOWN",
+    "churchCount": 2
+  },
+  {
+    "region": "MBEYA",
+    "district": "CHUNYA",
+    "churchCount": 1
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBALALI",
+    "churchCount": 3
+  },
+  {
+    "region": "MBEYA",
+    "district": "RUNGWE",
+    "churchCount": 2
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBOZI",
+    "churchCount": 3
+  },
+  {
+    "region": "MBEYA",
+    "district": "MOMBA",
+    "churchCount": 3
+  },
+  {
+    "region": "MBEYA",
+    "district": "KYELA",
+    "churchCount": 7
+  },
+  {
+    "region": "MOROGORO",
+    "district": "GAIRO",
+    "churchCount": 2
+  },
+  {
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "churchCount": 5
+  },
+  {
+    "region": "MOROGORO",
+    "district": "KONGWA",
+    "churchCount": 2
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "churchCount": 4
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "churchCount": 4
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "churchCount": 4
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "churchCount": 9
+  },
+  {
+    "region": "MWANZA",
+    "district": "MWANZA CITY",
+    "churchCount": 3
+  },
+  {
+    "region": "MWANZA",
+    "district": "NYAMAGANA",
+    "churchCount": 1
+  },
+  {
+    "region": "MWANZA",
+    "district": "MISUNGWI",
+    "churchCount": 2
+  },
+  {
+    "region": "MWANZA",
+    "district": "SENGEREMA",
+    "churchCount": 3
+  },
+  {
+    "region": "MWANZA",
+    "district": "KWIMBA",
+    "churchCount": 2
+  },
+  {
+    "region": "MWANZA",
+    "district": "MAGU",
+    "churchCount": 5
+  },
+  {
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "churchCount": 5
+  },
+  {
+    "region": "NJOMBE",
+    "district": "NJOMBE",
+    "churchCount": 1
+  },
+  {
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "churchCount": 6
+  },
+  {
+    "region": "NJOMBE",
+    "district": "MAKETE",
+    "churchCount": 2
+  },
+  {
+    "region": "NJOMBE",
+    "district": "NJOMBE VIJIJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "churchCount": 4
+  },
+  {
+    "region": "NJOMBE",
+    "district": "WANGINGOMBE",
+    "churchCount": 2
+  },
+  {
+    "region": "PWANI",
+    "district": "BAGAMOYO",
+    "churchCount": 2
+  },
+  {
+    "region": "PWANI",
+    "district": "CHALINZE",
+    "churchCount": 3
+  },
+  {
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "churchCount": 4
+  },
+  {
+    "region": "PWANI",
+    "district": "PWANI",
+    "churchCount": 10
+  },
+  {
+    "region": "PWANI",
+    "district": "MAFIA",
+    "churchCount": 1
+  },
+  {
+    "region": "PWANI",
+    "district": "MKURANGA",
+    "churchCount": 1
+  },
+  {
+    "region": "PWANI",
+    "district": "CHALINNZE",
+    "churchCount": 1
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "KAHAMA MJINI",
+    "churchCount": 1
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "churchCount": 10
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "USHETU",
+    "churchCount": 2
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MSALALA",
+    "churchCount": 2
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MSALA",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "CHAMWINO",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IGUGUNO",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IKUNGI",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "KIGAMBONI",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MOSHI",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "SENENE",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "SINGIDA MANISPAA",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "TANGANYIKA",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "UJIJI",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "ULANGA",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "UVINZA",
+    "churchCount": 1
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MKALAMA",
+    "churchCount": 2
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IRAMBA",
+    "churchCount": 2
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MANYONI",
+    "churchCount": 1
+  },
+  {
+    "region": "SONGEA",
+    "district": "SONGEA URBURN",
+    "churchCount": 2
+  },
+  {
+    "region": "SONGEA",
+    "district": "NAMTUMBO",
+    "churchCount": 3
+  },
+  {
+    "region": "SONGEA",
+    "district": "TUNDURU",
+    "churchCount": 2
+  },
+  {
+    "region": "SONGEA",
+    "district": "MBINGA",
+    "churchCount": 2
+  },
+  {
+    "region": "SONGEA",
+    "district": "NYASA",
+    "churchCount": 3
+  },
+  {
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "churchCount": 4
+  },
+  {
+    "region": "SONGWE",
+    "district": "KILINDI",
+    "churchCount": 2
+  },
+  {
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "churchCount": 4
+  },
+  {
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "churchCount": 4
+  },
+  {
+    "region": "SONGWE",
+    "district": "MOMBA",
+    "churchCount": 3
+  }
+]

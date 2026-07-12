@@ -1,0 +1,788 @@
+[
+  {
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "lat": -3.37,
+    "lng": 36.68
+  },
+  {
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "lat": -3.34,
+    "lng": 35.66
+  },
+  {
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "lat": -2.73,
+    "lng": 36.69
+  },
+  {
+    "region": "ARUSHA",
+    "district": "MERU",
+    "lat": -3.25,
+    "lng": 36.87
+  },
+  {
+    "region": "ARUSHA",
+    "district": "MONDULI",
+    "lat": -3.3,
+    "lng": 36.45
+  },
+  {
+    "region": "ARUSHA",
+    "district": "NGORONGORO",
+    "lat": -3.24,
+    "lng": 35.48
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "BAHI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "KITETO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "MPWAPWA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "DODOMA",
+    "district": "URBAN",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "GEITA",
+    "district": "CHATO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "GEITA",
+    "district": "NYANG’HWALE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "IRINGA",
+    "district": "IRINGA MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "IRINGA",
+    "district": "IRINGAVIJIJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "IRINGA",
+    "district": "MAFINGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "BUKOBA URBAN",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "BUKOBA VIJIJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "MISENYI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "BAKOBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "KASHAI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "KITENDAGURO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "NYANGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "KIBETA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "ILEMELA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "KATORO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "RUBALE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KAGERA",
+    "district": "NYAKATO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KASULU MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "UVINZA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KIBONDO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "KAKONKO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KIGOMA",
+    "district": "BUHIGWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI URBAN",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI RURAL",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "MOSHI VIJIJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "SENGEREMA MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "KILIMANJARO",
+    "district": "USHIROMBO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MANYARA",
+    "district": "BABATI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MANYARA",
+    "district": "HANANG",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MANYARA",
+    "district": "KITETO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MANYARA",
+    "district": "MBULU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "SERENGETI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "TARIME",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "BUNDA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "MUSOMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "RORYA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MARA",
+    "district": "BUTIAMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBEYA TOWN",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "CHUNYA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBALALI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "RUNGWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "MBOZI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "MOMBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MBEYA",
+    "district": "KYELA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "GAIRO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "KONGWA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "MWANZA CITY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "NYAMAGANA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "MISUNGWI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "SENGEREMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "KWIMBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "MAGU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "NJOMBE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "MAKETE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "NJOMBE VIJIJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "NJOMBE",
+    "district": "WANGINGOMBE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "BAGAMOYO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "CHALINZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "PWANI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "MAFIA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "MKURANGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "PWANI",
+    "district": "CHALINNZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "KAHAMA MJINI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "USHETU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MSALALA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SHINYANGA",
+    "district": "MSALA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "CHAMWINO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IGUGUNO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IKUNGI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "KIGAMBONI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MOSHI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "SENENE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "SINGIDA MANISPAA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "TANGANYIKA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "UJIJI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "ULANGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "UVINZA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MKALAMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "IRAMBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SINGIDA",
+    "district": "MANYONI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGEA",
+    "district": "SONGEA URBURN",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGEA",
+    "district": "NAMTUMBO",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGEA",
+    "district": "TUNDURU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGEA",
+    "district": "MBINGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGEA",
+    "district": "NYASA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGWE",
+    "district": "KILINDI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "region": "SONGWE",
+    "district": "MOMBA",
+    "lat": 0,
+    "lng": 0
+  }
+]

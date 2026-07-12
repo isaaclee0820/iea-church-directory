@@ -1,0 +1,78 @@
+[
+  {
+    "region": "ARUSHA",
+    "churchCount": 32
+  },
+  {
+    "region": "DAR ES SALAAM",
+    "churchCount": 51
+  },
+  {
+    "region": "DODOMA",
+    "churchCount": 71
+  },
+  {
+    "region": "GEITA",
+    "churchCount": 25
+  },
+  {
+    "region": "IRINGA",
+    "churchCount": 17
+  },
+  {
+    "region": "KAGERA",
+    "churchCount": 20
+  },
+  {
+    "region": "KIGOMA",
+    "churchCount": 22
+  },
+  {
+    "region": "KILIMANJARO",
+    "churchCount": 48
+  },
+  {
+    "region": "MANYARA",
+    "churchCount": 24
+  },
+  {
+    "region": "MARA",
+    "churchCount": 24
+  },
+  {
+    "region": "MBEYA",
+    "churchCount": 21
+  },
+  {
+    "region": "MOROGORO",
+    "churchCount": 30
+  },
+  {
+    "region": "MWANZA",
+    "churchCount": 21
+  },
+  {
+    "region": "NJOMBE",
+    "churchCount": 16
+  },
+  {
+    "region": "PWANI",
+    "churchCount": 22
+  },
+  {
+    "region": "SHINYANGA",
+    "churchCount": 16
+  },
+  {
+    "region": "SINGIDA",
+    "churchCount": 16
+  },
+  {
+    "region": "SONGEA",
+    "churchCount": 12
+  },
+  {
+    "region": "SONGWE",
+    "churchCount": 17
+  }
+]
