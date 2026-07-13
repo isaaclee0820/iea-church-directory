@@ -1,0 +1,3537 @@
+[
+  {
+    "id": 1,
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "name": "ENGO SENGYU SCHOOL",
+    "pastor": "PARADISO THOMAS"
+  },
+  {
+    "id": 2,
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "name": "MASHONO",
+    "pastor": "YONA SHAYO"
+  },
+  {
+    "id": 3,
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "name": "SASI PRIMARY",
+    "pastor": "PARADISO THOMAS"
+  },
+  {
+    "id": 4,
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "name": "SHASHONI",
+    "pastor": "PARADISO THOMAS"
+  },
+  {
+    "id": 5,
+    "region": "ARUSHA",
+    "district": "ARUSHA JIJI",
+    "name": "USWAHILINI",
+    "pastor": "JOSHUA JOSEPH"
+  },
+  {
+    "id": 6,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "MAJENGO",
+    "pastor": "ZAKAYO TUHAYO"
+  },
+  {
+    "id": 7,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "MANG’ORA",
+    "pastor": "MATHAYO YOHANA"
+  },
+  {
+    "id": 8,
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "name": "LONGIDO",
+    "pastor": "JOSEPH NGAMBI"
+  },
+  {
+    "id": 9,
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "name": "MAHARI",
+    "pastor": "JEREMIA OLENDIDIKA"
+  },
+  {
+    "id": 10,
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "name": "NAMANGA",
+    "pastor": "FRANSIC MSAKI"
+  },
+  {
+    "id": 11,
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "name": "NGARENAIBO",
+    "pastor": "MESHAKI ALAKARA"
+  },
+  {
+    "id": 12,
+    "region": "ARUSHA",
+    "district": "LONGIDO",
+    "name": "ORMANGEKI",
+    "pastor": "ELIJAH OLESAMBU"
+  },
+  {
+    "id": 13,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "IMBASENI",
+    "pastor": "RICHARD MOLLEL"
+  },
+  {
+    "id": 14,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "KIKATITI",
+    "pastor": "MATHIAS AYO"
+  },
+  {
+    "id": 15,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "KOMORO",
+    "pastor": "MATHAYO LAIZA"
+  },
+  {
+    "id": 16,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "LAKE 3",
+    "pastor": "ZACHARIA MVAMBA"
+  },
+  {
+    "id": 17,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "LEGANGA",
+    "pastor": "ELIAFURA URIO"
+  },
+  {
+    "id": 18,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "MAJI YA CHAI",
+    "pastor": "SAMWEL SUMARY"
+  },
+  {
+    "id": 19,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "MLIMA SAYUNI",
+    "pastor": "SIMONI MUNGURE"
+  },
+  {
+    "id": 20,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "NGWARANGA",
+    "pastor": "EPHATA MUNIS"
+  },
+  {
+    "id": 21,
+    "region": "ARUSHA",
+    "district": "MONDULI",
+    "name": "KIGONGONI",
+    "pastor": "NEEMA JOSEPH"
+  },
+  {
+    "id": 22,
+    "region": "ARUSHA",
+    "district": "MONDULI",
+    "name": "MTO WA MBU",
+    "pastor": "JOSEPH MWAKUVIBULA"
+  },
+  {
+    "id": 23,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "KAMBI YA SIMBA",
+    "pastor": "ERICK KIMARO"
+  },
+  {
+    "id": 24,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "EYASI",
+    "pastor": "FAUSTINE AKIDA"
+  },
+  {
+    "id": 25,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "GANAKO",
+    "pastor": "PAULO MUSHI"
+  },
+  {
+    "id": 26,
+    "region": "ARUSHA",
+    "district": "KARATU",
+    "name": "BASHAY",
+    "pastor": "ESTA MASAWE"
+  },
+  {
+    "id": 27,
+    "region": "ARUSHA",
+    "district": "NGORONGORO",
+    "name": "TNAGA",
+    "pastor": "ASWILE JOHN"
+  },
+  {
+    "id": 28,
+    "region": "ARUSHA",
+    "district": "NGORONGORO",
+    "name": "YASI",
+    "pastor": "KAMUGISHA NZOA"
+  },
+  {
+    "id": 29,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "MLIMA SIYONI",
+    "pastor": "ANDREA KADUMA"
+  },
+  {
+    "id": 30,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "MAGADINI",
+    "pastor": "FADHILI HILLARY"
+  },
+  {
+    "id": 31,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "MJI MWEMA",
+    "pastor": "JUACKIM ADREA"
+  },
+  {
+    "id": 32,
+    "region": "ARUSHA",
+    "district": "MERU",
+    "name": "NGANANA",
+    "pastor": "KENED SANGA"
+  },
+  {
+    "id": 33,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "ILALA",
+    "pastor": "FAUSTIN HAMISI"
+  },
+  {
+    "id": 34,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "KIGOGO",
+    "pastor": "JOSHUA MIZENGO"
+  },
+  {
+    "id": 35,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "KIMANGA",
+    "pastor": "OLIVER KABOJA"
+  },
+  {
+    "id": 36,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "KINYEREZI",
+    "pastor": "FLORA EDWARD"
+  },
+  {
+    "id": 37,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "LIWIT PR SCHOOL",
+    "pastor": "GODFREY NHONYA"
+  },
+  {
+    "id": 38,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "LIWITI",
+    "pastor": "AINEA SIMO"
+  },
+  {
+    "id": 39,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "MATUMBI",
+    "pastor": "BELINA PASAKALI"
+  },
+  {
+    "id": 40,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "MSIMBAZI",
+    "pastor": "RIZIKI MWETA"
+  },
+  {
+    "id": 41,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "MTAKUJA PR SCHOOL",
+    "pastor": "JEREMIA"
+  },
+  {
+    "id": 42,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "TABATA PR SCHOOL",
+    "pastor": "GODFREY NHONYA"
+  },
+  {
+    "id": 43,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "TABATA RUTC",
+    "pastor": "BARAKA MWAMSOJO"
+  },
+  {
+    "id": 44,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "TAZARA",
+    "pastor": "JEREMIA"
+  },
+  {
+    "id": 45,
+    "region": "DAR ES SALAAM",
+    "district": "ILALA",
+    "name": "VINGUNGUTI",
+    "pastor": "GODFREY NHONYA"
+  },
+  {
+    "id": 46,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "ASHERIN TELEMKA"
+  },
+  {
+    "id": 47,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "CHRISTINA GEORGE"
+  },
+  {
+    "id": 48,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "CHRISTOPHER KYANDA"
+  },
+  {
+    "id": 49,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "DANIEL"
+  },
+  {
+    "id": 50,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "FAUDESI MLISA"
+  },
+  {
+    "id": 51,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "GLORY JACOB"
+  },
+  {
+    "id": 52,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "JANETH CHARESI"
+  },
+  {
+    "id": 53,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "MARTIN CHARLES"
+  },
+  {
+    "id": 54,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "NICOLAUS KIPROTCH"
+  },
+  {
+    "id": 55,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "ROSE MAKUNGA"
+  },
+  {
+    "id": 56,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MABWEPANDE",
+    "pastor": "SEVERINE NDAUKA"
+  },
+  {
+    "id": 57,
+    "region": "DAR ES SALAAM",
+    "district": "KINONDONI",
+    "name": "MBEZI",
+    "pastor": "HUMPHREY  MBAWALA"
+  },
+  {
+    "id": 58,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "CHRISTOHER PILA"
+  },
+  {
+    "id": 59,
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "name": "KILUVYA",
+    "pastor": "DEBORA HAONGA"
+  },
+  {
+    "id": 60,
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "name": "KILUVYA",
+    "pastor": "JAMES ALPHONCE"
+  },
+  {
+    "id": 61,
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "name": "KILUVYA",
+    "pastor": "WILLIAM SHIMBO"
+  },
+  {
+    "id": 62,
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "name": "KILUVYA MADUKANI",
+    "pastor": "JOHNSON KARATA"
+  },
+  {
+    "id": 63,
+    "region": "DAR ES SALAAM",
+    "district": "UBUNGO",
+    "name": "MBEZI MSUMI",
+    "pastor": "VINCENT"
+  },
+  {
+    "id": 64,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "CHRISTOPHER PILA"
+  },
+  {
+    "id": 65,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "SYVANUS ULAYA"
+  },
+  {
+    "id": 66,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "KIGEZI PR SCHOOL",
+    "pastor": "SARAH KABELELE"
+  },
+  {
+    "id": 67,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "KIGEZI SECONDARY SCHOOL",
+    "pastor": "RADISLAUS MASELE"
+  },
+  {
+    "id": 68,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "SUMBE JOSEPH"
+  },
+  {
+    "id": 69,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "EMMANUEL GAMBRIEL"
+  },
+  {
+    "id": 70,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "JAPHET PETRO"
+  },
+  {
+    "id": 71,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "GEORGE KIMASA"
+  },
+  {
+    "id": 72,
+    "region": "DAR ES SALAAM",
+    "district": "TEMEKE",
+    "name": "CHANIKA",
+    "pastor": "TONY CHRISTOPHER"
+  },
+  {
+    "id": 73,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "KINZUDI",
+    "pastor": "YOHANA USWEGE"
+  },
+  {
+    "id": 74,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "MJI MWEMA",
+    "pastor": "RICHARD EDSON MBEKULE"
+  },
+  {
+    "id": 75,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "CHAKE",
+    "pastor": "JOSEPHAT MWAKAN’GATA"
+  },
+  {
+    "id": 76,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "KIBADA",
+    "pastor": "FREDRICK MPITA"
+  },
+  {
+    "id": 77,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "KIBADA",
+    "pastor": "LEODOKIA BALE"
+  },
+  {
+    "id": 78,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "KIMBIJI",
+    "pastor": "ASUMWISYE KIBONA"
+  },
+  {
+    "id": 79,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "PEMBA MNAZI",
+    "pastor": "MWAKIBOLWA MOSES"
+  },
+  {
+    "id": 80,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "PEMBA MNAZI",
+    "pastor": "LWEKILA MPONJI"
+  },
+  {
+    "id": 81,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "SOMANGILA",
+    "pastor": "JONH MLAPONI"
+  },
+  {
+    "id": 82,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "SOMANGILA",
+    "pastor": "IMANI YAKOBO"
+  },
+  {
+    "id": 83,
+    "region": "DAR ES SALAAM",
+    "district": "KIGAMBONI",
+    "name": "VIJIBWENI",
+    "pastor": "TUMAINI MIKA"
+  },
+  {
+    "id": 84,
+    "region": "DODOMA",
+    "district": "BAHI",
+    "name": "BAHI",
+    "pastor": "ISAYA RASHID"
+  },
+  {
+    "id": 85,
+    "region": "DODOMA",
+    "district": "BAHI",
+    "name": "KISIMA CHA NDEGE",
+    "pastor": "YOHANA NHONYA"
+  },
+  {
+    "id": 86,
+    "region": "DODOMA",
+    "district": "BAHI",
+    "name": "KISIMA CHA NDEGE PRIMARY",
+    "pastor": "YOHANA NHONYA"
+  },
+  {
+    "id": 87,
+    "region": "DODOMA",
+    "district": "BAHI",
+    "name": "TINAI",
+    "pastor": "CHARLES NHONYA"
+  },
+  {
+    "id": 88,
+    "region": "DODOMA",
+    "district": "BAHI",
+    "name": "TINAI PRIMARY",
+    "pastor": "CHARLES NHONYA"
+  },
+  {
+    "id": 89,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "BWIGIRI",
+    "pastor": "FRANK GILBERT"
+  },
+  {
+    "id": 90,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "BWIGIRI PRIMARY",
+    "pastor": "FRANK GILBERT"
+  },
+  {
+    "id": 91,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "BWIGIRI SECONDARY",
+    "pastor": "FRANK GILBERT"
+  },
+  {
+    "id": 92,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "CHALINZE",
+    "pastor": "PAULO MASANJA"
+  },
+  {
+    "id": 93,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "CHAMWINO IKULU",
+    "pastor": "JAMES LYALI"
+  },
+  {
+    "id": 94,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "CHINANGARI",
+    "pastor": "ELIUD SAMWEL"
+  },
+  {
+    "id": 95,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "CHINANGARI PRIMARY",
+    "pastor": "ELIUD SAMWEL"
+  },
+  {
+    "id": 96,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "IZAVA",
+    "pastor": "MONICA PAULO"
+  },
+  {
+    "id": 97,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "IZAVA PRIMARY",
+    "pastor": "MONICA PAULO"
+  },
+  {
+    "id": 98,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "IZAVA SECONDARY",
+    "pastor": "MONICA PAULO"
+  },
+  {
+    "id": 99,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "KAMBARAGE PRIMARY",
+    "pastor": "JAMES LYALI"
+  },
+  {
+    "id": 100,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MALECHELA",
+    "pastor": "SIMON"
+  },
+  {
+    "id": 101,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MANCHARI PR SCHOOL",
+    "pastor": "PALO MASANJA"
+  },
+  {
+    "id": 102,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MSANGA",
+    "pastor": "JOSHUA GIGOJI"
+  },
+  {
+    "id": 103,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MSANGA PRIMARY",
+    "pastor": "JOSHUA CHIGOJI"
+  },
+  {
+    "id": 104,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MSANGA SECONDARY",
+    "pastor": "JOSHUA CHIGOJI"
+  },
+  {
+    "id": 105,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "MTERA",
+    "pastor": "EMANUEL"
+  },
+  {
+    "id": 106,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "SEGELA",
+    "pastor": "IBRAHIMU DARABE"
+  },
+  {
+    "id": 107,
+    "region": "DODOMA",
+    "district": "CHAMWINO",
+    "name": "WIRUNZE PRIMARY",
+    "pastor": "PAULO MASANJA"
+  },
+  {
+    "id": 108,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "CHEMBA",
+    "pastor": "KUNDAEL NKO"
+  },
+  {
+    "id": 109,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "CHEMBA PRIMARY",
+    "pastor": "KUNDAEL NKO"
+  },
+  {
+    "id": 110,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "CHUO CHA VETA CHEMBA",
+    "pastor": "KUNDAEL NKO"
+  },
+  {
+    "id": 111,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "GWADI",
+    "pastor": "MATEI DOO"
+  },
+  {
+    "id": 112,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "GWADI PRIMARY",
+    "pastor": "MATEI DOO"
+  },
+  {
+    "id": 113,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "GWADI SECONDARY",
+    "pastor": "MATEI DOO"
+  },
+  {
+    "id": 114,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "KIDOKA",
+    "pastor": "IBRAHIM SARAKIKYA"
+  },
+  {
+    "id": 115,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "KIDOKA PRIMARY",
+    "pastor": "IBRAHIMU SALAKIKYA"
+  },
+  {
+    "id": 116,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "KIDOKA SECONDARY",
+    "pastor": "IBRAHIM SARAKIKYA"
+  },
+  {
+    "id": 117,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "MAJENGO",
+    "pastor": "ALOICE NYIKA"
+  },
+  {
+    "id": 118,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "PANGALUA",
+    "pastor": "ELIA REUBEN"
+  },
+  {
+    "id": 119,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "PANGALUA PRIMARY",
+    "pastor": "ELIA REUBEN"
+  },
+  {
+    "id": 120,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "ROFATI",
+    "pastor": "PAULO DOO"
+  },
+  {
+    "id": 121,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "ROFATI PRIMARY",
+    "pastor": "PAULO DOO"
+  },
+  {
+    "id": 122,
+    "region": "DODOMA",
+    "district": "CHEMBA",
+    "name": "ZAJIRWA",
+    "pastor": "NEEMA PENDO"
+  },
+  {
+    "id": 123,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "BWAWANI PR SCHOOL",
+    "pastor": "JEREMIA PANGA"
+  },
+  {
+    "id": 124,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "CHANG'OMBE",
+    "pastor": "AMANI LOTH"
+  },
+  {
+    "id": 125,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "CHITEGO",
+    "pastor": "REUBEN KWEKA"
+  },
+  {
+    "id": 126,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "MAGUNGU",
+    "pastor": "SARA URIO"
+  },
+  {
+    "id": 127,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "MAPINDUZI PR SCHOOL",
+    "pastor": "SARA URIO"
+  },
+  {
+    "id": 128,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "MATUI",
+    "pastor": "JEREMIA PANGA"
+  },
+  {
+    "id": 129,
+    "region": "DODOMA",
+    "district": "KITETO",
+    "name": "MDUNKU",
+    "pastor": "PAULO NIIMA"
+  },
+  {
+    "id": 130,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "CHUNGU",
+    "pastor": "MARY CHIDONG'OI"
+  },
+  {
+    "id": 131,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "CHUNGU PRIMARY",
+    "pastor": "MARY CHIDONG'OI"
+  },
+  {
+    "id": 132,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "HOGORO",
+    "pastor": "ASSA TATIA"
+  },
+  {
+    "id": 133,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "KIBAIGWA",
+    "pastor": "RICHARD SHEKIONDO"
+  },
+  {
+    "id": 134,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "KIBAIGWA PRIMARY",
+    "pastor": "RICHARD SHEKIONDO"
+  },
+  {
+    "id": 135,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "KIBAIGWA SECONDARY",
+    "pastor": "RICHARD SHEKIONDO"
+  },
+  {
+    "id": 136,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "KONGWA",
+    "pastor": "PROCESS KALINJUNA"
+  },
+  {
+    "id": 137,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "KONGWA SECONDARY",
+    "pastor": "PROCESS KALINJUNA"
+  },
+  {
+    "id": 138,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MACHENJE",
+    "pastor": "ROSEMARY UDOBA"
+  },
+  {
+    "id": 139,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MANUNGU",
+    "pastor": "STEFANO SEMUNDI"
+  },
+  {
+    "id": 140,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MANUNGU PRIMARY",
+    "pastor": "MUSA SEMUNDI"
+  },
+  {
+    "id": 141,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MBANDE",
+    "pastor": "LEBARATUS KINUNDA"
+  },
+  {
+    "id": 142,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MBANDE PRIMARY",
+    "pastor": "LEBARATUS KINUNDA"
+  },
+  {
+    "id": 143,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MBANDE SECONDARY",
+    "pastor": "LEBARATUS KINUNDA"
+  },
+  {
+    "id": 144,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MLIMA GATA",
+    "pastor": "JACKSON SIMO"
+  },
+  {
+    "id": 145,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MLIMA GATA PRIMARY",
+    "pastor": "AINEA SIMO"
+  },
+  {
+    "id": 146,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MPONDI",
+    "pastor": "MUSSA SEMUNDI"
+  },
+  {
+    "id": 147,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "MSUNJURIRE",
+    "pastor": "VERIAN KUSHOKA"
+  },
+  {
+    "id": 148,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "NZASA",
+    "pastor": "JONAS MGANGA"
+  },
+  {
+    "id": 149,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "NZASA PR SCHOOL",
+    "pastor": "JONAS MGANGA"
+  },
+  {
+    "id": 150,
+    "region": "DODOMA",
+    "district": "KONGWA",
+    "name": "SONGAMBELE",
+    "pastor": "JOHN MDACHI"
+  },
+  {
+    "id": 151,
+    "region": "DODOMA",
+    "district": "MPWAPWA",
+    "name": "MPWAPWA",
+    "pastor": "DAUDI MUSSA"
+  },
+  {
+    "id": 152,
+    "region": "DODOMA",
+    "district": "MPWAPWA",
+    "name": "MPWAPWA PR SCHOOL",
+    "pastor": "DAUDI MUSA"
+  },
+  {
+    "id": 153,
+    "region": "DODOMA",
+    "district": "URBAN",
+    "name": "NONG’ONA",
+    "pastor": "JOSHUA MNYAMAZI"
+  },
+  {
+    "id": 154,
+    "region": "DODOMA",
+    "district": "URBAN",
+    "name": "SWASWA",
+    "pastor": "PAULO ALLY"
+  },
+  {
+    "id": 155,
+    "region": "GEITA",
+    "district": "CHATO",
+    "name": "BONGELA",
+    "pastor": "MARIAM SAMAWI"
+  },
+  {
+    "id": 156,
+    "region": "GEITA",
+    "district": "CHATO",
+    "name": "BONGELA",
+    "pastor": "SOSPETER MORRICE"
+  },
+  {
+    "id": 157,
+    "region": "GEITA",
+    "district": "CHATO",
+    "name": "MINKOTO",
+    "pastor": "ALPHONCE B. KANUNGU"
+  },
+  {
+    "id": 158,
+    "region": "GEITA",
+    "district": "CHATO",
+    "name": "NAMONGE",
+    "pastor": "DEUS LUDOMYA"
+  },
+  {
+    "id": 159,
+    "region": "GEITA",
+    "district": "CHATO",
+    "name": "NAMONGE",
+    "pastor": "ESTER DOTTO"
+  },
+  {
+    "id": 160,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "BUKOMBE",
+    "pastor": "MAGRET KALABO"
+  },
+  {
+    "id": 161,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "BUKOMBE",
+    "pastor": "SHIJA MSUHI"
+  },
+  {
+    "id": 162,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "KATORO",
+    "pastor": "FROLA CHANGALA"
+  },
+  {
+    "id": 163,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "KATORO",
+    "pastor": "MABULA EMMANUEL"
+  },
+  {
+    "id": 164,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "MASUMBWE",
+    "pastor": "ESTA NYANDA"
+  },
+  {
+    "id": 165,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "MASUMBWE",
+    "pastor": "MCH VENERABLE KANUNGU"
+  },
+  {
+    "id": 166,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "MASUMBWE B",
+    "pastor": "ABEL NGAMBO"
+  },
+  {
+    "id": 167,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "NYAKAFULU",
+    "pastor": "JONATHAN JUMA"
+  },
+  {
+    "id": 168,
+    "region": "GEITA",
+    "district": "MBOGWE",
+    "name": "NYAKASALUMA",
+    "pastor": "MCH EZEKIEL B. MALUNU"
+  },
+  {
+    "id": 169,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "BUKOMBE",
+    "pastor": "JOHN MUSHI"
+  },
+  {
+    "id": 170,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "BUKOMBE",
+    "pastor": "SIFUNI MWAKYUSA"
+  },
+  {
+    "id": 171,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "BUKOMBE",
+    "pastor": "EDISA SOKOTA"
+  },
+  {
+    "id": 172,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "IKALANGA",
+    "pastor": "EVELINE JAKOB"
+  },
+  {
+    "id": 173,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "IKALANGA",
+    "pastor": "MWANDIKA SUGUYE"
+  },
+  {
+    "id": 174,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "ILALWE",
+    "pastor": "ELIYA NZUNDA"
+  },
+  {
+    "id": 175,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "ILALWE",
+    "pastor": "KAISIKI TOBIAS"
+  },
+  {
+    "id": 176,
+    "region": "GEITA",
+    "district": "BUKOMBE",
+    "name": "IMALANGUZU",
+    "pastor": "KASSIM AKIDA"
+  },
+  {
+    "id": 177,
+    "region": "GEITA",
+    "district": "NYANG’HWALE",
+    "name": "MIMBILI",
+    "pastor": "MARK JOSEPH"
+  },
+  {
+    "id": 178,
+    "region": "GEITA",
+    "district": "NYANG’HWALE",
+    "name": "KIJINGA",
+    "pastor": "IRENE KISHAPU"
+  },
+  {
+    "id": 179,
+    "region": "GEITA",
+    "district": "NYANG’HWALE",
+    "name": "NUNDU",
+    "pastor": "ANNA KIBONA"
+  },
+  {
+    "id": 180,
+    "region": "IRINGA",
+    "district": "IRINGA MJINI",
+    "name": "KITWILO",
+    "pastor": "DANIE MWASHIBANDA"
+  },
+  {
+    "id": 181,
+    "region": "IRINGA",
+    "district": "IRINGAVIJIJINI",
+    "name": "MSEKE",
+    "pastor": "SUZAN MWANGATA"
+  },
+  {
+    "id": 182,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IDETE",
+    "pastor": "MKANDALA JOHN"
+  },
+  {
+    "id": 183,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IDETE",
+    "pastor": "ASUMWISE FATAKI"
+  },
+  {
+    "id": 184,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IGOGOLO",
+    "pastor": "LEDION VIKINDU"
+  },
+  {
+    "id": 185,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IGOGOLO",
+    "pastor": "MWALE DANIEL"
+  },
+  {
+    "id": 186,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IGUNDA",
+    "pastor": "OMARY SHABAN"
+  },
+  {
+    "id": 187,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IGUNDA",
+    "pastor": "BERSEN PETER"
+  },
+  {
+    "id": 188,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "IHONGOLO",
+    "pastor": "BOAZ SOSPITA"
+  },
+  {
+    "id": 189,
+    "region": "IRINGA",
+    "district": "KILOLO",
+    "name": "ILAWA",
+    "pastor": "KIANDA MWAITAKA"
+  },
+  {
+    "id": 190,
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "name": "KIPANGA",
+    "pastor": "ASIFIWE KIBONA"
+  },
+  {
+    "id": 191,
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "name": "KIPANGA",
+    "pastor": "JOSHUA MWAKIFUNA"
+  },
+  {
+    "id": 192,
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "name": "IHIMBO",
+    "pastor": "MAWAZO HAJI"
+  },
+  {
+    "id": 193,
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "name": "UKAMI",
+    "pastor": "ANANIA MUSA"
+  },
+  {
+    "id": 194,
+    "region": "IRINGA",
+    "district": "MUFINDI",
+    "name": "IKUNA",
+    "pastor": "PETRO YOHANA"
+  },
+  {
+    "id": 195,
+    "region": "IRINGA",
+    "district": "MAFINGA",
+    "name": "MLAFU",
+    "pastor": "JUSTINE EMMANUEL"
+  },
+  {
+    "id": 196,
+    "region": "IRINGA",
+    "district": "MAFINGA",
+    "name": "ITAWI",
+    "pastor": "PAZIKO MNALI"
+  },
+  {
+    "id": 197,
+    "region": "KAGERA",
+    "district": "BUKOBA URBAN",
+    "name": "BUGEZI KIBETA",
+    "pastor": "WILSON BALILEMWA"
+  },
+  {
+    "id": 198,
+    "region": "KAGERA",
+    "district": "BUKOBA VIJIJINI",
+    "name": "BUGANDIKA",
+    "pastor": "TITUS TRIPHON"
+  },
+  {
+    "id": 199,
+    "region": "KAGERA",
+    "district": "BUKOBA VIJIJINI",
+    "name": "KATOMA",
+    "pastor": "EDWARD JEREMIAH"
+  },
+  {
+    "id": 200,
+    "region": "KAGERA",
+    "district": "BUKOBA VIJIJINI",
+    "name": "KYAMULAILE",
+    "pastor": "JOYGRAIDES WILSON"
+  },
+  {
+    "id": 201,
+    "region": "KAGERA",
+    "district": "MISENYI",
+    "name": "BWALIBWELA",
+    "pastor": "FELDINAND FILBERT"
+  },
+  {
+    "id": 202,
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "name": "BUYANGO",
+    "pastor": "GIDION GERVAS"
+  },
+  {
+    "id": 203,
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "name": "KASHARARA",
+    "pastor": "ALISTIDES CHARLES"
+  },
+  {
+    "id": 204,
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "name": "KITEME",
+    "pastor": "OSWARD MICHAEL"
+  },
+  {
+    "id": 205,
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "name": "MUIGABILI",
+    "pastor": "GEORGE MAGAYANE"
+  },
+  {
+    "id": 206,
+    "region": "KAGERA",
+    "district": "MULEBA",
+    "name": "MUSHULE",
+    "pastor": "FROLIAN SAFARI"
+  },
+  {
+    "id": 207,
+    "region": "KAGERA",
+    "district": "BAKOBA",
+    "name": "MAJENGO",
+    "pastor": "KATO KISHA"
+  },
+  {
+    "id": 208,
+    "region": "KAGERA",
+    "district": "KASHAI",
+    "name": "KASHOZI",
+    "pastor": "SEKELA THOBIAS"
+  },
+  {
+    "id": 209,
+    "region": "KAGERA",
+    "district": "KITENDAGURO",
+    "name": "MAFUMBO",
+    "pastor": "ANASTAZIA KINGU"
+  },
+  {
+    "id": 210,
+    "region": "KAGERA",
+    "district": "NYANGA",
+    "name": "MIEMBENI",
+    "pastor": "HUMFREY SANGA"
+  },
+  {
+    "id": 211,
+    "region": "KAGERA",
+    "district": "NYANGA",
+    "name": "KIBETA",
+    "pastor": "ALEX JOSEPH"
+  },
+  {
+    "id": 212,
+    "region": "KAGERA",
+    "district": "KIBETA",
+    "name": "KASENYI",
+    "pastor": "JULETH SUGUYE"
+  },
+  {
+    "id": 213,
+    "region": "KAGERA",
+    "district": "ILEMELA",
+    "name": "POSTA",
+    "pastor": "KIBONA SUKA"
+  },
+  {
+    "id": 214,
+    "region": "KAGERA",
+    "district": "KATORO",
+    "name": "SOKO KUU",
+    "pastor": "GABRIEL KINZUDI"
+  },
+  {
+    "id": 215,
+    "region": "KAGERA",
+    "district": "RUBALE",
+    "name": "RWAMISHENYE",
+    "pastor": "MAIKO KAONDA"
+  },
+  {
+    "id": 216,
+    "region": "KAGERA",
+    "district": "NYAKATO",
+    "name": "KIBETA",
+    "pastor": "FRANK MUSAFIRI"
+  },
+  {
+    "id": 217,
+    "region": "KIGOMA",
+    "district": "KASULU MJINI",
+    "name": "MLUBONA",
+    "pastor": "BERNARD SEFANIA"
+  },
+  {
+    "id": 218,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "BARABARA YA 10",
+    "pastor": "GAHIMBALE FREDIANE"
+  },
+  {
+    "id": 219,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "BARABARA YA 6",
+    "pastor": "NDIKUMANA HAMISI"
+  },
+  {
+    "id": 220,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "HELABUSHINGO",
+    "pastor": "SPELANCE AZIZA"
+  },
+  {
+    "id": 221,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "MAKELE",
+    "pastor": "KAGOMA SALUM"
+  },
+  {
+    "id": 222,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "MVUGWE",
+    "pastor": "KENCHO LUGOMELO"
+  },
+  {
+    "id": 223,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "MWALI",
+    "pastor": "NKULUZIZA JULIAS"
+  },
+  {
+    "id": 224,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "NYACHENDA",
+    "pastor": "NTAKALUTIMANA PELANCE"
+  },
+  {
+    "id": 225,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "NYAKANAZI",
+    "pastor": "NIMBONA SPILIAN"
+  },
+  {
+    "id": 226,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "NYAKITONTO",
+    "pastor": "JEREMIA LULENGELO"
+  },
+  {
+    "id": 227,
+    "region": "KIGOMA",
+    "district": "KASULU VIJIJINI",
+    "name": "NYALUGUSU REFUGEES CAMP",
+    "pastor": "MUSSA LAMECK"
+  },
+  {
+    "id": 228,
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "name": "MWASENGA BUHANDA",
+    "pastor": "ENOCK M. LUTUNGULU"
+  },
+  {
+    "id": 229,
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "name": "BURONGE",
+    "pastor": "FRANK MAURID"
+  },
+  {
+    "id": 230,
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "name": "BUSINDE",
+    "pastor": "BRUNO JOHN"
+  },
+  {
+    "id": 231,
+    "region": "KIGOMA",
+    "district": "KIGOMA MJINI",
+    "name": "UJIJI",
+    "pastor": "SEVELINA KALIMANZILA"
+  },
+  {
+    "id": 232,
+    "region": "KIGOMA",
+    "district": "UVINZA",
+    "name": "ILAGALA",
+    "pastor": "LUCAS JOHN"
+  },
+  {
+    "id": 233,
+    "region": "KIGOMA",
+    "district": "UVINZA",
+    "name": "ILAGALA",
+    "pastor": "FUASTINE ASAGWIILE"
+  },
+  {
+    "id": 234,
+    "region": "KIGOMA",
+    "district": "UVINZA",
+    "name": "MLOLE",
+    "pastor": "MUNISHI KARATU"
+  },
+  {
+    "id": 235,
+    "region": "KIGOMA",
+    "district": "KIBONDO",
+    "name": "UJENZI",
+    "pastor": "KIONZI BARIKI"
+  },
+  {
+    "id": 236,
+    "region": "KIGOMA",
+    "district": "KIBONDO",
+    "name": "GEMU",
+    "pastor": "SOFIA ANORD"
+  },
+  {
+    "id": 237,
+    "region": "KIGOMA",
+    "district": "KAKONKO",
+    "name": "VAMIA",
+    "pastor": "ASIFIWE FAKI"
+  },
+  {
+    "id": 238,
+    "region": "KIGOMA",
+    "district": "BUHIGWE",
+    "name": "RUSIMBI",
+    "pastor": "AMBWENE MWANSANSU"
+  },
+  {
+    "id": 239,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "MAJENGO",
+    "pastor": "GEORGE KIMASA"
+  },
+  {
+    "id": 240,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "MAWENZI",
+    "pastor": "JAPHET PETRO"
+  },
+  {
+    "id": 241,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "BONDENI",
+    "pastor": "TONY CHRISTOPHER"
+  },
+  {
+    "id": 242,
+    "region": "KILIMANJARO",
+    "district": "MOSHI URBAN",
+    "name": "MAJENGO",
+    "pastor": "LIBERATHA WILSON"
+  },
+  {
+    "id": 243,
+    "region": "KILIMANJARO",
+    "district": "MOSHI URBAN",
+    "name": "MAWENZI",
+    "pastor": "WILSON BALILEMWA"
+  },
+  {
+    "id": 244,
+    "region": "KILIMANJARO",
+    "district": "MOSHI RURAL",
+    "name": "URU NORTH",
+    "pastor": "EDWARD JEREMIA"
+  },
+  {
+    "id": 245,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "MWANGA",
+    "pastor": "NAOMI JEREMIA"
+  },
+  {
+    "id": 246,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "KIFARU",
+    "pastor": "CONSOLATA NGEMERA"
+  },
+  {
+    "id": 247,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "KIKWENI",
+    "pastor": "GEORGE MAGAYANE"
+  },
+  {
+    "id": 248,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "NJORO",
+    "pastor": "NEEMA MAJULA"
+  },
+  {
+    "id": 249,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "CHANI",
+    "pastor": "TITUS EVARISTA"
+  },
+  {
+    "id": 250,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "MABOGINI",
+    "pastor": "RADISLAUS MASELE"
+  },
+  {
+    "id": 251,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "NGIRESI",
+    "pastor": "SARAH KABELELE"
+  },
+  {
+    "id": 252,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "MACHAME",
+    "pastor": "SYVANUS ULAYA"
+  },
+  {
+    "id": 253,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "MACHAMEPRIMARY SCHOOL",
+    "pastor": "CHRISTOPHER JOSEPH"
+  },
+  {
+    "id": 254,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "MACHAME SECONDARY SCHOOL",
+    "pastor": "CHRISTOPHER JOSEPH"
+  },
+  {
+    "id": 255,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "MISENYE",
+    "pastor": "FERDINAND FILIBERT"
+  },
+  {
+    "id": 256,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "SHAMBARAI",
+    "pastor": "KAMUGISHA GOERGE"
+  },
+  {
+    "id": 257,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "VUJE",
+    "pastor": "JOYCE JOSEPH"
+  },
+  {
+    "id": 258,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "SAME",
+    "pastor": "PETRO GODFREY"
+  },
+  {
+    "id": 259,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "NJORO",
+    "pastor": "SAMSON MKULIA"
+  },
+  {
+    "id": 260,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "KIKAFU",
+    "pastor": "EPIFANIA RWITIKO"
+  },
+  {
+    "id": 261,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "KINYALA",
+    "pastor": "ZAKIA DANIEL"
+  },
+  {
+    "id": 262,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "URU",
+    "pastor": "GIDION GERVAS"
+  },
+  {
+    "id": 263,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "KIHURIO",
+    "pastor": "JESCA MATIKU"
+  },
+  {
+    "id": 264,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "MASAMA",
+    "pastor": "JULIETH SIMON"
+  },
+  {
+    "id": 265,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "SANYA JUU",
+    "pastor": "ANOLATA SANGA"
+  },
+  {
+    "id": 266,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "SHULENI",
+    "pastor": "ROSE OSCAR"
+  },
+  {
+    "id": 267,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "MAKIWARU",
+    "pastor": "MWAKA"
+  },
+  {
+    "id": 268,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "MADUKANI",
+    "pastor": "RICHARD EDSON"
+  },
+  {
+    "id": 269,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "MWANGA",
+    "pastor": "PATRICK MUSHI"
+  },
+  {
+    "id": 270,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "KIGONIGONI",
+    "pastor": "ELIAS KIMATI"
+  },
+  {
+    "id": 271,
+    "region": "KILIMANJARO",
+    "district": "MOSHI VIJIJINI",
+    "name": "KIBOSHO",
+    "pastor": "SELINA MBAGGA"
+  },
+  {
+    "id": 272,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "KISANGARA",
+    "pastor": "SALVATORY ALOICE"
+  },
+  {
+    "id": 273,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "LEMBENI",
+    "pastor": "APENDA MKANZA"
+  },
+  {
+    "id": 274,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "ROMBO MKUU",
+    "pastor": "VICTOR KAONDO"
+  },
+  {
+    "id": 275,
+    "region": "KILIMANJARO",
+    "district": "SENGEREMA MJINI",
+    "name": "SENGEREMA MJINI",
+    "pastor": "DAMIAN SAUL"
+  },
+  {
+    "id": 276,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "MAE JUU",
+    "pastor": "KUSURIE"
+  },
+  {
+    "id": 277,
+    "region": "KILIMANJARO",
+    "district": "SIHA",
+    "name": "NAMWAI",
+    "pastor": "CHRISTOAMAN MASAWE"
+  },
+  {
+    "id": 278,
+    "region": "KILIMANJARO",
+    "district": "USHIROMBO",
+    "name": "BUKOMBE",
+    "pastor": "GRACE MASELE"
+  },
+  {
+    "id": 279,
+    "region": "KILIMANJARO",
+    "district": "USHIROMBO",
+    "name": "USHIROMBO",
+    "pastor": "SEKELA NUNDWI"
+  },
+  {
+    "id": 280,
+    "region": "KILIMANJARO",
+    "district": "USHIROMBO",
+    "name": "USHIROMBO",
+    "pastor": "KAMUGISHA NOAH"
+  },
+  {
+    "id": 281,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "MASAMA",
+    "pastor": "PENDO MSUFI"
+  },
+  {
+    "id": 282,
+    "region": "KILIMANJARO",
+    "district": "HAI",
+    "name": "PASUA",
+    "pastor": "ANANIA OSCA"
+  },
+  {
+    "id": 283,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "ROMBO",
+    "pastor": "CHARLES EDGER"
+  },
+  {
+    "id": 284,
+    "region": "KILIMANJARO",
+    "district": "ROMBO",
+    "name": "SOWETO",
+    "pastor": "ONOLATA SANGA"
+  },
+  {
+    "id": 285,
+    "region": "KILIMANJARO",
+    "district": "MWANGA",
+    "name": "RAU",
+    "pastor": "SALOME MWITA"
+  },
+  {
+    "id": 286,
+    "region": "KILIMANJARO",
+    "district": "SAME",
+    "name": "SAME",
+    "pastor": "MWIGULU MSAKI"
+  },
+  {
+    "id": 287,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "BABATI MJI",
+    "pastor": "ANDERSON SAMWEL"
+  },
+  {
+    "id": 288,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "KISAMGAJI",
+    "pastor": "SAMWEL DOITA"
+  },
+  {
+    "id": 289,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "MADUNGA",
+    "pastor": "EZRA DANIEL"
+  },
+  {
+    "id": 290,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "MAGUGU",
+    "pastor": "PAULO MABUGA"
+  },
+  {
+    "id": 291,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "MAHOLE",
+    "pastor": "JACKSON MAHOLE"
+  },
+  {
+    "id": 292,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "MBUYUNI",
+    "pastor": "PAULO AGITE"
+  },
+  {
+    "id": 293,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "RIRODA",
+    "pastor": "STEPHANO FISOO"
+  },
+  {
+    "id": 294,
+    "region": "MANYARA",
+    "district": "BABATI",
+    "name": "SAWE PR SCHOOL",
+    "pastor": "ANDERSON SAMWEL"
+  },
+  {
+    "id": 295,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "BALANGDALALU",
+    "pastor": "PHILIPO MANYA"
+  },
+  {
+    "id": 296,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "DILODA",
+    "pastor": "HELENA JOHN"
+  },
+  {
+    "id": 297,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "GABADAW",
+    "pastor": "SAUL BAYO"
+  },
+  {
+    "id": 298,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "GORIMBA",
+    "pastor": "SELVERY SELESTINE"
+  },
+  {
+    "id": 299,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "MAREGA",
+    "pastor": "LUCAS MAREGA"
+  },
+  {
+    "id": 300,
+    "region": "MANYARA",
+    "district": "HANANG",
+    "name": "MASAKTA",
+    "pastor": "EMANUEL YOHANA"
+  },
+  {
+    "id": 301,
+    "region": "MANYARA",
+    "district": "KITETO",
+    "name": "KITETO",
+    "pastor": "HANS MWITA"
+  },
+  {
+    "id": 302,
+    "region": "MANYARA",
+    "district": "KITETO",
+    "name": "LOLKISALE",
+    "pastor": "MWAIJANDE FRANK"
+  },
+  {
+    "id": 303,
+    "region": "MANYARA",
+    "district": "KITETO",
+    "name": "LOLKISALE",
+    "pastor": "LILIAN MOSHA"
+  },
+  {
+    "id": 304,
+    "region": "MANYARA",
+    "district": "MBULU",
+    "name": "SEMBETA",
+    "pastor": "DERICK CALEB"
+  },
+  {
+    "id": 305,
+    "region": "MANYARA",
+    "district": "MBULU",
+    "name": "MATUI",
+    "pastor": "VICENT DENIS"
+  },
+  {
+    "id": 306,
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "name": "ARASH",
+    "pastor": "DANIEL MKIZA"
+  },
+  {
+    "id": 307,
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "name": "EMOREET",
+    "pastor": "KAREBU MKANDALA"
+  },
+  {
+    "id": 308,
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "name": "MALAMBO",
+    "pastor": "JENSINTA WANDE"
+  },
+  {
+    "id": 309,
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "name": "SUKURO",
+    "pastor": "REBEKA KININDA"
+  },
+  {
+    "id": 310,
+    "region": "MANYARA",
+    "district": "SIMANJIRO",
+    "name": "TARRAT",
+    "pastor": "YUSUPH MPAJI"
+  },
+  {
+    "id": 311,
+    "region": "MARA",
+    "district": "SERENGETI",
+    "name": "CHAMOTO",
+    "pastor": "JOSEPH BURURE"
+  },
+  {
+    "id": 312,
+    "region": "MARA",
+    "district": "SERENGETI",
+    "name": "MBARIBARI",
+    "pastor": "MARKO MWITA"
+  },
+  {
+    "id": 313,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "KEBEYO",
+    "pastor": "NDERA SIMON"
+  },
+  {
+    "id": 314,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "KONGENI",
+    "pastor": "SAMWEL CHACHA"
+  },
+  {
+    "id": 315,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "KYORUBA",
+    "pastor": "ZACHARIA CHACHA"
+  },
+  {
+    "id": 316,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "MPAKANI",
+    "pastor": "MAGIGE CHACHA"
+  },
+  {
+    "id": 317,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "REMAGWE",
+    "pastor": "SAMWEL JOSEPH MAGIGE"
+  },
+  {
+    "id": 318,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "SIRARI",
+    "pastor": "CHRISTOPHER SABAI"
+  },
+  {
+    "id": 319,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "TARIME MJINI",
+    "pastor": "KELVIN"
+  },
+  {
+    "id": 320,
+    "region": "MARA",
+    "district": "BUNDA",
+    "name": "NYASHISHI",
+    "pastor": "MAKOLE GININGI"
+  },
+  {
+    "id": 321,
+    "region": "MARA",
+    "district": "BUNDA",
+    "name": "SOKO",
+    "pastor": "JANNET OBBA"
+  },
+  {
+    "id": 322,
+    "region": "MARA",
+    "district": "BUNDA",
+    "name": "MAJENGO",
+    "pastor": "REBEKA JONH"
+  },
+  {
+    "id": 323,
+    "region": "MARA",
+    "district": "MUSOMA",
+    "name": "MUSOMA",
+    "pastor": "ANTONYKWEZI"
+  },
+  {
+    "id": 324,
+    "region": "MARA",
+    "district": "MUSOMA",
+    "name": "MUSOMA",
+    "pastor": "PRSCA ZUBEDA"
+  },
+  {
+    "id": 325,
+    "region": "MARA",
+    "district": "MUSOMA",
+    "name": "MURIBA",
+    "pastor": "ZAKIA MSUSA"
+  },
+  {
+    "id": 326,
+    "region": "MARA",
+    "district": "SERENGETI",
+    "name": "SERENGETI",
+    "pastor": "MWIJAE NJUSI"
+  },
+  {
+    "id": 327,
+    "region": "MARA",
+    "district": "RORYA",
+    "name": "BOMANI",
+    "pastor": "ANANIA ANTONIO"
+  },
+  {
+    "id": 328,
+    "region": "MARA",
+    "district": "RORYA",
+    "name": "RORYA",
+    "pastor": "YAKOBO BENJAMIN"
+  },
+  {
+    "id": 329,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "SOTA",
+    "pastor": "JOVITA SIFUE"
+  },
+  {
+    "id": 330,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "NYANCHA",
+    "pastor": "RASHID KINZUDI"
+  },
+  {
+    "id": 331,
+    "region": "MARA",
+    "district": "TARIME",
+    "name": "MASABA",
+    "pastor": "ELISHA DAMA"
+  },
+  {
+    "id": 332,
+    "region": "MARA",
+    "district": "BUTIAMA",
+    "name": "BUTIAMA",
+    "pastor": "STEPHANO SASALI"
+  },
+  {
+    "id": 333,
+    "region": "MARA",
+    "district": "BUTIAMA",
+    "name": "KATI",
+    "pastor": "JESCA  WENU"
+  },
+  {
+    "id": 334,
+    "region": "MARA",
+    "district": "BUTIAMA",
+    "name": "BUTIAMA",
+    "pastor": "ABRAHAM FRANK"
+  },
+  {
+    "id": 335,
+    "region": "MBEYA",
+    "district": "MBEYA TOWN",
+    "name": "MBEYA URBAN",
+    "pastor": "DAVIDI MWASHILINDI"
+  },
+  {
+    "id": 336,
+    "region": "MBEYA",
+    "district": "MBEYA TOWN",
+    "name": "UYOLE",
+    "pastor": "JONAS AMONI"
+  },
+  {
+    "id": 337,
+    "region": "MBEYA",
+    "district": "CHUNYA",
+    "name": "CHUNYA MJINI",
+    "pastor": "SALVATORY"
+  },
+  {
+    "id": 338,
+    "region": "MBEYA",
+    "district": "MBALALI",
+    "name": "IGAWA",
+    "pastor": "CHARLES MWANALENGA"
+  },
+  {
+    "id": 339,
+    "region": "MBEYA",
+    "district": "MBALALI",
+    "name": "LUJEWA",
+    "pastor": "STMILI MWANALEGA"
+  },
+  {
+    "id": 340,
+    "region": "MBEYA",
+    "district": "MBALALI",
+    "name": "NEAR RUKWA",
+    "pastor": "EVODIANA"
+  },
+  {
+    "id": 341,
+    "region": "MBEYA",
+    "district": "RUNGWE",
+    "name": "RUNGWE",
+    "pastor": "MNALI RIZIK"
+  },
+  {
+    "id": 342,
+    "region": "MBEYA",
+    "district": "RUNGWE",
+    "name": "RUNGWE",
+    "pastor": "DAUDI FUNDIKILA"
+  },
+  {
+    "id": 343,
+    "region": "MBEYA",
+    "district": "MBOZI",
+    "name": "MLOO",
+    "pastor": "GABRIEL KENED"
+  },
+  {
+    "id": 344,
+    "region": "MBEYA",
+    "district": "MBOZI",
+    "name": "MBOZI",
+    "pastor": "AULINE RAPHAEL"
+  },
+  {
+    "id": 345,
+    "region": "MBEYA",
+    "district": "MBOZI",
+    "name": "MLOO",
+    "pastor": "SOFIA SANGA"
+  },
+  {
+    "id": 346,
+    "region": "MBEYA",
+    "district": "MOMBA",
+    "name": "KISULE",
+    "pastor": "PAUL GANDE"
+  },
+  {
+    "id": 347,
+    "region": "MBEYA",
+    "district": "MOMBA",
+    "name": "POLISI",
+    "pastor": "JUSTINE WENJE"
+  },
+  {
+    "id": 348,
+    "region": "MBEYA",
+    "district": "MOMBA",
+    "name": "MADUKANI",
+    "pastor": "NGONYANI FAUSTINE"
+  },
+  {
+    "id": 349,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "MJINI",
+    "pastor": "FUNGAMALI TOBIAS"
+  },
+  {
+    "id": 350,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "MJINI",
+    "pastor": "DEUGRATIUS MICHAEL"
+  },
+  {
+    "id": 351,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "MATENKI",
+    "pastor": "MWAMVUA SUDI"
+  },
+  {
+    "id": 352,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "BODA",
+    "pastor": "YUSUPH DAUSON"
+  },
+  {
+    "id": 353,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "BODA",
+    "pastor": "LEAH MKIZA"
+  },
+  {
+    "id": 354,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "TUKUYU",
+    "pastor": "SAFARI HAJI"
+  },
+  {
+    "id": 355,
+    "region": "MBEYA",
+    "district": "KYELA",
+    "name": "TUKUYU",
+    "pastor": "KIBONA SAMWELI"
+  },
+  {
+    "id": 356,
+    "region": "MOROGORO",
+    "district": "GAIRO",
+    "name": "CHANG'OMBE",
+    "pastor": "YAKOBO MKETO"
+  },
+  {
+    "id": 357,
+    "region": "MOROGORO",
+    "district": "GAIRO",
+    "name": "CHANG'OMBE PRIMARY",
+    "pastor": "YAKOBO MKETO"
+  },
+  {
+    "id": 358,
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "name": "DUMIRA",
+    "pastor": "MCH TIMOTHEO KIM"
+  },
+  {
+    "id": 359,
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "name": "IBINGU",
+    "pastor": "MCH TRAIPHONE"
+  },
+  {
+    "id": 360,
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "name": "LUMUMA",
+    "pastor": "JOSEPHAT MSANGU"
+  },
+  {
+    "id": 361,
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "name": "MGUGU",
+    "pastor": "LUGENDO CHILIMO"
+  },
+  {
+    "id": 362,
+    "region": "MOROGORO",
+    "district": "KILOSA",
+    "name": "MSOELO",
+    "pastor": "MCH RICHARD"
+  },
+  {
+    "id": 363,
+    "region": "MOROGORO",
+    "district": "KONGWA",
+    "name": "GAIRO",
+    "pastor": "MBEGA"
+  },
+  {
+    "id": 364,
+    "region": "MOROGORO",
+    "district": "KONGWA",
+    "name": "KIBAIGWA",
+    "pastor": "VENANCY"
+  },
+  {
+    "id": 365,
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "name": "FULWE SECONDARY",
+    "pastor": "JOSEPHAT HOSEA"
+  },
+  {
+    "id": 366,
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "name": "MBOKWA",
+    "pastor": "NICHOLUS MVWANGO"
+  },
+  {
+    "id": 367,
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "name": "MIKESE",
+    "pastor": "JOSEPHAT HOSEA"
+  },
+  {
+    "id": 368,
+    "region": "MOROGORO",
+    "district": "MOROGORO",
+    "name": "UKOMANGA SECONDARY",
+    "pastor": "JOSEPHAT HOSEA"
+  },
+  {
+    "id": 369,
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "name": "NANENANE - RUTC",
+    "pastor": "WATSON BASIGA"
+  },
+  {
+    "id": 370,
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "name": "NANENANE HIGH SCHOOL",
+    "pastor": "WATSON BASIGA"
+  },
+  {
+    "id": 371,
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "name": "NANENANE SEC SHOOL",
+    "pastor": "WATSON BASIGA"
+  },
+  {
+    "id": 372,
+    "region": "MOROGORO",
+    "district": "MOROROGO MJINI",
+    "name": "YESPA PR SCHOOL",
+    "pastor": "WATSON BASIGA"
+  },
+  {
+    "id": 373,
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "name": "32.LUKOBE",
+    "pastor": "OSCA KAWIBESELE"
+  },
+  {
+    "id": 374,
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "name": "KARENGA KERO",
+    "pastor": "BETHOD MADENGE"
+  },
+  {
+    "id": 375,
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "name": "MGUGWE",
+    "pastor": "SONATH MADENGE"
+  },
+  {
+    "id": 376,
+    "region": "MOROGORO",
+    "district": "MRIMBA",
+    "name": "VIWANJA SITINI",
+    "pastor": "ERASTO MAHUNGI"
+  },
+  {
+    "id": 377,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MADEKO",
+    "pastor": "YOHANA MHANDO"
+  },
+  {
+    "id": 378,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MANDELA",
+    "pastor": "YOHANA MHANDO"
+  },
+  {
+    "id": 379,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MBUGANI",
+    "pastor": "YOHANA MHANDO"
+  },
+  {
+    "id": 380,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MELELA",
+    "pastor": "DANIEL SONGOMBILI, ZABRON SOJO"
+  },
+  {
+    "id": 381,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MIEMBENI PRIMARY",
+    "pastor": "JOSEPH MNIMBO"
+  },
+  {
+    "id": 382,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MVOMERO CHURCH",
+    "pastor": "JOSEPH MNIMBO"
+  },
+  {
+    "id": 383,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MVOMERO PRIMARY",
+    "pastor": "JOSEPH MNIMBO"
+  },
+  {
+    "id": 384,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "MVOMERO SECONDARY",
+    "pastor": "JOSEPH MNIMBO"
+  },
+  {
+    "id": 385,
+    "region": "MOROGORO",
+    "district": "MVOMERO",
+    "name": "UNYANKAHE",
+    "pastor": "METHEW"
+  },
+  {
+    "id": 386,
+    "region": "MWANZA",
+    "district": "MWANZA CITY",
+    "name": "KAMANGA",
+    "pastor": "ADREW"
+  },
+  {
+    "id": 387,
+    "region": "MWANZA",
+    "district": "MWANZA CITY",
+    "name": "KISHIRI",
+    "pastor": "JAPHERT"
+  },
+  {
+    "id": 388,
+    "region": "MWANZA",
+    "district": "MWANZA CITY",
+    "name": "MAJIMOTO",
+    "pastor": "WILIAM WILSON"
+  },
+  {
+    "id": 389,
+    "region": "MWANZA",
+    "district": "NYAMAGANA",
+    "name": "MKUYUNI",
+    "pastor": "ELIZABETH K. KAMBA"
+  },
+  {
+    "id": 390,
+    "region": "MWANZA",
+    "district": "MISUNGWI",
+    "name": "NENGO",
+    "pastor": "NESTOL KANUMA"
+  },
+  {
+    "id": 391,
+    "region": "MWANZA",
+    "district": "MISUNGWI",
+    "name": "NYAMADOKE",
+    "pastor": "JUSTIN"
+  },
+  {
+    "id": 392,
+    "region": "MWANZA",
+    "district": "SENGEREMA",
+    "name": "NYAMATONGO",
+    "pastor": "FRANSIS SAMSON"
+  },
+  {
+    "id": 393,
+    "region": "MWANZA",
+    "district": "SENGEREMA",
+    "name": "NYAMOHONGORO",
+    "pastor": "JEREMIA SANYA"
+  },
+  {
+    "id": 394,
+    "region": "MWANZA",
+    "district": "KWIMBA",
+    "name": "NYAMOHONGORO",
+    "pastor": "JOHN OGADO"
+  },
+  {
+    "id": 395,
+    "region": "MWANZA",
+    "district": "KWIMBA",
+    "name": "NYAMOHONGORO",
+    "pastor": "SAMSONI SAGARO"
+  },
+  {
+    "id": 396,
+    "region": "MWANZA",
+    "district": "SENGEREMA",
+    "name": "SENGEREMA",
+    "pastor": "IBRAHIM ISAKWI"
+  },
+  {
+    "id": 397,
+    "region": "MWANZA",
+    "district": "MAGU",
+    "name": "KISESA",
+    "pastor": "ANNA PAUL"
+  },
+  {
+    "id": 398,
+    "region": "MWANZA",
+    "district": "MAGU",
+    "name": "SUKUMA",
+    "pastor": "FADHIL SUDI"
+  },
+  {
+    "id": 399,
+    "region": "MWANZA",
+    "district": "MAGU",
+    "name": "BUJASHI",
+    "pastor": "PETER MWASA"
+  },
+  {
+    "id": 400,
+    "region": "MWANZA",
+    "district": "MAGU",
+    "name": "SALAMA",
+    "pastor": "YOHANA MPINA"
+  },
+  {
+    "id": 401,
+    "region": "MWANZA",
+    "district": "MAGU",
+    "name": "CHANDULU",
+    "pastor": "SAMWELI YUSUPH"
+  },
+  {
+    "id": 402,
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "name": "NGASAMO",
+    "pastor": "HENRY KATO"
+  },
+  {
+    "id": 403,
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "name": "NGUNGA",
+    "pastor": "THADEO GWAJIMA"
+  },
+  {
+    "id": 404,
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "name": "LUKUNGU",
+    "pastor": "FAKI MUSAFIRI"
+  },
+  {
+    "id": 405,
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "name": "MALILI",
+    "pastor": "BAKAR ALLY"
+  },
+  {
+    "id": 406,
+    "region": "MWANZA",
+    "district": "BUSEGA",
+    "name": "SENTA",
+    "pastor": "EDGER NGOMA"
+  },
+  {
+    "id": 407,
+    "region": "NJOMBE",
+    "district": "NJOMBE",
+    "name": "LUILO",
+    "pastor": "LUKAS HAULE"
+  },
+  {
+    "id": 408,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "LUBONDE",
+    "pastor": "BEATRICE NAFTARI"
+  },
+  {
+    "id": 409,
+    "region": "NJOMBE",
+    "district": "MAKETE",
+    "name": "MANDA",
+    "pastor": "SAKINA KIOMBO"
+  },
+  {
+    "id": 410,
+    "region": "NJOMBE",
+    "district": "MAKETE",
+    "name": "MAWENI",
+    "pastor": "MGUNA NUNDA"
+  },
+  {
+    "id": 411,
+    "region": "NJOMBE",
+    "district": "NJOMBE VIJIJINI",
+    "name": "LUILO",
+    "pastor": "PASCAL POLIDA"
+  },
+  {
+    "id": 412,
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "name": "MAKONDE",
+    "pastor": "KIZAKA MSUMI"
+  },
+  {
+    "id": 413,
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "name": "MLANGALI",
+    "pastor": "LEWIS MAMBOLEO"
+  },
+  {
+    "id": 414,
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "name": "IKWETE",
+    "pastor": "FRANK KIBONA"
+  },
+  {
+    "id": 415,
+    "region": "NJOMBE",
+    "district": "MAKAMBAKO",
+    "name": "MLOWA",
+    "pastor": "NURDIN MUSA"
+  },
+  {
+    "id": 416,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "IDOFI",
+    "pastor": "KIZEGA MWAKINGWE"
+  },
+  {
+    "id": 417,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "MADOPE",
+    "pastor": "MWITA WAITARA"
+  },
+  {
+    "id": 418,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "RUHUHU",
+    "pastor": "LAISON NGONDE"
+  },
+  {
+    "id": 419,
+    "region": "NJOMBE",
+    "district": "WANGINGOMBE",
+    "name": "ITISI",
+    "pastor": "SOFIA JECHA"
+  },
+  {
+    "id": 420,
+    "region": "NJOMBE",
+    "district": "WANGINGOMBE",
+    "name": "KIVAVI",
+    "pastor": "FUBILE BEDA"
+  },
+  {
+    "id": 421,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "LUGARAWA",
+    "pastor": "VICTOR MSUMBA"
+  },
+  {
+    "id": 422,
+    "region": "NJOMBE",
+    "district": "LUDEWA",
+    "name": "ILININDA",
+    "pastor": "MPONJORI SILAS"
+  },
+  {
+    "id": 423,
+    "region": "PWANI",
+    "district": "BAGAMOYO",
+    "name": "BAGAMOYO",
+    "pastor": "JOSHUA"
+  },
+  {
+    "id": 424,
+    "region": "PWANI",
+    "district": "BAGAMOYO",
+    "name": "BAGAMOYO",
+    "pastor": "SAMWEL"
+  },
+  {
+    "id": 425,
+    "region": "PWANI",
+    "district": "CHALINZE",
+    "name": "CHALINZE",
+    "pastor": "JACKSON"
+  },
+  {
+    "id": 426,
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "name": "KISARAWE",
+    "pastor": "BEATRICE NYUNZA"
+  },
+  {
+    "id": 427,
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "name": "KISARAWE",
+    "pastor": "BEATUS MASIKA"
+  },
+  {
+    "id": 428,
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "name": "KISARAWE",
+    "pastor": "SAMSON KUNTAMWALA"
+  },
+  {
+    "id": 429,
+    "region": "PWANI",
+    "district": "KISARAWE",
+    "name": "KISARAWE",
+    "pastor": "ZAINABU EDWARD"
+  },
+  {
+    "id": 430,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "BOKO MNEMELA",
+    "pastor": "AMANI"
+  },
+  {
+    "id": 431,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "FRANCO WOLFBAM"
+  },
+  {
+    "id": 432,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "GODFREY MAPUGA"
+  },
+  {
+    "id": 433,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "HAKIM MKOYA"
+  },
+  {
+    "id": 434,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "JOHN TWAHA"
+  },
+  {
+    "id": 435,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "JONAS MWENEZI"
+  },
+  {
+    "id": 436,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "JULIT MAPUGA"
+  },
+  {
+    "id": 437,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA",
+    "pastor": "ZAWARD GEORGE"
+  },
+  {
+    "id": 438,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "KIBAHA - RUTC",
+    "pastor": "JACKSON LUTAYA"
+  },
+  {
+    "id": 439,
+    "region": "PWANI",
+    "district": "PWANI",
+    "name": "MLANDIZI",
+    "pastor": "FELIX MSOMBA"
+  },
+  {
+    "id": 440,
+    "region": "PWANI",
+    "district": "MAFIA",
+    "name": "UBENA",
+    "pastor": "ERISON KIMARO"
+  },
+  {
+    "id": 441,
+    "region": "PWANI",
+    "district": "MKURANGA",
+    "name": "MDAULA",
+    "pastor": "BUTIKU MPINA"
+  },
+  {
+    "id": 442,
+    "region": "PWANI",
+    "district": "CHALINNZE",
+    "name": "MATULI",
+    "pastor": "STANFORD MWASHI"
+  },
+  {
+    "id": 443,
+    "region": "PWANI",
+    "district": "CHALINZE",
+    "name": "UBENA",
+    "pastor": "MTAFYA SOPE"
+  },
+  {
+    "id": 444,
+    "region": "PWANI",
+    "district": "CHALINZE",
+    "name": "KIZUKA",
+    "pastor": "MUGIZ STEWARD"
+  },
+  {
+    "id": 445,
+    "region": "SHINYANGA",
+    "district": "KAHAMA MJINI",
+    "name": "MAJENGO",
+    "pastor": "GODFREY MJUNI"
+  },
+  {
+    "id": 446,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "BUKANDWE",
+    "pastor": "EZEKIEL SUBI"
+  },
+  {
+    "id": 447,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "BUKANDWE",
+    "pastor": "JOYCE SENGASENGA"
+  },
+  {
+    "id": 448,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "BUKANDWE",
+    "pastor": "NELSON"
+  },
+  {
+    "id": 449,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "ILOLANGULU",
+    "pastor": "SCOLASTIKA SAIMON"
+  },
+  {
+    "id": 450,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "ISEBYA",
+    "pastor": "MESHACK"
+  },
+  {
+    "id": 451,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "LUGUNGA",
+    "pastor": "EMMANUEL"
+  },
+  {
+    "id": 452,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "LUGUNGA",
+    "pastor": "JONAS"
+  },
+  {
+    "id": 453,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "LUGUNGA",
+    "pastor": "MASUMBUKO"
+  },
+  {
+    "id": 454,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "LUGUNGA",
+    "pastor": "OBADIA NGUSA"
+  },
+  {
+    "id": 455,
+    "region": "SHINYANGA",
+    "district": "MBOGWE",
+    "name": "NHOMOLWA",
+    "pastor": "SAMWEL GIDION"
+  },
+  {
+    "id": 456,
+    "region": "SHINYANGA",
+    "district": "USHETU",
+    "name": "SHILELA",
+    "pastor": "HENRY JOSEPH"
+  },
+  {
+    "id": 457,
+    "region": "SHINYANGA",
+    "district": "USHETU",
+    "name": "LUNGUYA",
+    "pastor": "PETER MSHANA"
+  },
+  {
+    "id": 458,
+    "region": "SHINYANGA",
+    "district": "MSALALA",
+    "name": "NTOBO",
+    "pastor": "JENISCA ANTONY"
+  },
+  {
+    "id": 459,
+    "region": "SHINYANGA",
+    "district": "MSALA",
+    "name": "ISAKA",
+    "pastor": "FAUSTIN JUSTINE"
+  },
+  {
+    "id": 460,
+    "region": "SHINYANGA",
+    "district": "MSALALA",
+    "name": "CHELLA",
+    "pastor": "SUZAN TOBIAS"
+  },
+  {
+    "id": 461,
+    "region": "SINGIDA",
+    "district": "CHAMWINO",
+    "name": "CHAMWINO",
+    "pastor": "SANGA"
+  },
+  {
+    "id": 462,
+    "region": "SINGIDA",
+    "district": "IGUGUNO",
+    "name": "MKALAMA",
+    "pastor": "JONAS KULWA"
+  },
+  {
+    "id": 463,
+    "region": "SINGIDA",
+    "district": "IKUNGI",
+    "name": "IKUNGI",
+    "pastor": "MUSA"
+  },
+  {
+    "id": 464,
+    "region": "SINGIDA",
+    "district": "KIGAMBONI",
+    "name": "KIGAMBONI",
+    "pastor": "YOHANA"
+  },
+  {
+    "id": 465,
+    "region": "SINGIDA",
+    "district": "MOSHI",
+    "name": "MOSHI",
+    "pastor": "JACOBO"
+  },
+  {
+    "id": 466,
+    "region": "SINGIDA",
+    "district": "SENENE",
+    "name": "MKALAMA",
+    "pastor": "SULEIMAN"
+  },
+  {
+    "id": 467,
+    "region": "SINGIDA",
+    "district": "SINGIDA MANISPAA",
+    "name": "SINGIDA MANISPAA",
+    "pastor": "FENEHASI"
+  },
+  {
+    "id": 468,
+    "region": "SINGIDA",
+    "district": "TANGANYIKA",
+    "name": "TANGANYIKA",
+    "pastor": "ELIFACK"
+  },
+  {
+    "id": 469,
+    "region": "SINGIDA",
+    "district": "UJIJI",
+    "name": "UJIJI",
+    "pastor": "KIJAZI"
+  },
+  {
+    "id": 470,
+    "region": "SINGIDA",
+    "district": "ULANGA",
+    "name": "MAHENGE NJINI",
+    "pastor": "IZENGO FABIAN"
+  },
+  {
+    "id": 471,
+    "region": "SINGIDA",
+    "district": "UVINZA",
+    "name": "UVINZA",
+    "pastor": "PAUL MPETA"
+  },
+  {
+    "id": 472,
+    "region": "SINGIDA",
+    "district": "MKALAMA",
+    "name": "MISSION",
+    "pastor": "MATHIAS JOEL"
+  },
+  {
+    "id": 473,
+    "region": "SINGIDA",
+    "district": "MKALAMA",
+    "name": "KATI",
+    "pastor": "LWAGA MPINA"
+  },
+  {
+    "id": 474,
+    "region": "SINGIDA",
+    "district": "IRAMBA",
+    "name": "KATI",
+    "pastor": "KINDIKI JOSPHAT"
+  },
+  {
+    "id": 475,
+    "region": "SINGIDA",
+    "district": "IRAMBA",
+    "name": "SOKONI",
+    "pastor": "MPAKANJIA ALLY"
+  },
+  {
+    "id": 476,
+    "region": "SINGIDA",
+    "district": "MANYONI",
+    "name": "MAJENGO",
+    "pastor": "SAJUKI MSOFE"
+  },
+  {
+    "id": 477,
+    "region": "SONGEA",
+    "district": "SONGEA URBURN",
+    "name": "CHAOMBELE",
+    "pastor": "MZEE"
+  },
+  {
+    "id": 478,
+    "region": "SONGEA",
+    "district": "SONGEA URBURN",
+    "name": "NDONGOSI",
+    "pastor": "EDGER"
+  },
+  {
+    "id": 479,
+    "region": "SONGEA",
+    "district": "NAMTUMBO",
+    "name": "MSISIMA",
+    "pastor": "LULU MWASA"
+  },
+  {
+    "id": 480,
+    "region": "SONGEA",
+    "district": "NAMTUMBO",
+    "name": "MSISIMA",
+    "pastor": "PIERE ZAKAI"
+  },
+  {
+    "id": 481,
+    "region": "SONGEA",
+    "district": "NAMTUMBO",
+    "name": "KIANDA",
+    "pastor": "ASAGWILE MNANDA"
+  },
+  {
+    "id": 482,
+    "region": "SONGEA",
+    "district": "TUNDURU",
+    "name": "SOKONI",
+    "pastor": "BWIGANE EZRON"
+  },
+  {
+    "id": 483,
+    "region": "SONGEA",
+    "district": "TUNDURU",
+    "name": "MAJENGO",
+    "pastor": "FEDRICK KAISIKI"
+  },
+  {
+    "id": 484,
+    "region": "SONGEA",
+    "district": "MBINGA",
+    "name": "MISSION",
+    "pastor": "ISABELLA KATETI"
+  },
+  {
+    "id": 485,
+    "region": "SONGEA",
+    "district": "MBINGA",
+    "name": "HOSPITALI",
+    "pastor": "MANUNGU GADI"
+  },
+  {
+    "id": 486,
+    "region": "SONGEA",
+    "district": "NYASA",
+    "name": "LIULI",
+    "pastor": "IPYANA MGUNA"
+  },
+  {
+    "id": 487,
+    "region": "SONGEA",
+    "district": "NYASA",
+    "name": "TINGI",
+    "pastor": "KENED MUSA"
+  },
+  {
+    "id": 488,
+    "region": "SONGEA",
+    "district": "NYASA",
+    "name": "LUNDU",
+    "pastor": "FADHILI MSOMALI"
+  },
+  {
+    "id": 489,
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "name": "KWA MDILU",
+    "pastor": "MWANANTAN"
+  },
+  {
+    "id": 490,
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "name": "MKWAJUNI",
+    "pastor": "CHRISTOPHER MHAGAMA"
+  },
+  {
+    "id": 491,
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "name": "NGERENJE",
+    "pastor": "YOTHAM MILENDA"
+  },
+  {
+    "id": 492,
+    "region": "SONGWE",
+    "district": "MKWAJUNI",
+    "name": "SANGAWANA",
+    "pastor": "DANIEL MWASININI"
+  },
+  {
+    "id": 493,
+    "region": "SONGWE",
+    "district": "KILINDI",
+    "name": "ISANSA",
+    "pastor": "EZEKIEL DANIEL"
+  },
+  {
+    "id": 494,
+    "region": "SONGWE",
+    "district": "KILINDI",
+    "name": "ISANSA",
+    "pastor": "JOSEPHAT PETER"
+  },
+  {
+    "id": 495,
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "name": "IYULA",
+    "pastor": "PETER KYAMBA"
+  },
+  {
+    "id": 496,
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "name": "IYULA",
+    "pastor": "BUTIKU HENRY"
+  },
+  {
+    "id": 497,
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "name": "SOKONI",
+    "pastor": "CLEMENT JOHN"
+  },
+  {
+    "id": 498,
+    "region": "SONGWE",
+    "district": "MBOZI",
+    "name": "SOKONI",
+    "pastor": "HANSBERT KUBUKU"
+  },
+  {
+    "id": 499,
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "name": "ISONGOLE",
+    "pastor": "BURTON MWANDALIMA"
+  },
+  {
+    "id": 500,
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "name": "ISONGOLE",
+    "pastor": "FELISTER MUSHI"
+  },
+  {
+    "id": 501,
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "name": "ITUMBA",
+    "pastor": "LAMERK MHINI"
+  },
+  {
+    "id": 502,
+    "region": "SONGWE",
+    "district": "ILEJE",
+    "name": "ITUMBA",
+    "pastor": "GABRIEL SIFAEL"
+  },
+  {
+    "id": 503,
+    "region": "SONGWE",
+    "district": "MOMBA",
+    "name": "SOKONI",
+    "pastor": "SHITINDI STANFORD"
+  },
+  {
+    "id": 504,
+    "region": "SONGWE",
+    "district": "MOMBA",
+    "name": "ISANGA",
+    "pastor": "DANIEL MWANDALIMA"
+  },
+  {
+    "id": 505,
+    "region": "SONGWE",
+    "district": "MOMBA",
+    "name": "ILOLO",
+    "pastor": "SIWEMA GODFREY"
+  }
+]

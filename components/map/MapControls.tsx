@@ -2,7 +2,9 @@
 
 import { useChurchStore } from "@/lib/store";
 
+
 export default function MapControls() {
+
   const {
     selectedRegion,
     selectedDistrict,
@@ -10,61 +12,84 @@ export default function MapControls() {
     setSelectedDistrict,
   } = useChurchStore();
 
-  if (
-    !selectedRegion &&
-    !selectedDistrict
-  ) {
+
+
+  if (!selectedRegion && !selectedDistrict) {
     return null;
   }
 
+
+
   return (
+
     <div
       className="
         absolute
         top-4
         left-4
         z-[1000]
-        bg-white
         rounded-lg
-        shadow-md
+        bg-white
         p-2
+        shadow-md
       "
     >
+
+
       {selectedDistrict && (
+
         <button
+
           className="
-            block
+            rounded-md
             px-3
             py-2
             text-sm
             hover:bg-gray-100
           "
-          onClick={() =>
+
+
+          onClick={()=>
             setSelectedDistrict(null)
           }
+
         >
           ← Back to districts
         </button>
+
       )}
 
-      {selectedRegion &&
-        !selectedDistrict && (
-          <button
-            className="
-              block
-              px-3
-              py-2
-              text-sm
-              hover:bg-gray-100
-            "
-            onClick={() =>
-              setSelectedRegion(null)
-            }
-          >
-            ← Back to regions
-          </button>
-        )}
+
+
+      {selectedRegion && !selectedDistrict && (
+
+        <button
+
+          className="
+            rounded-md
+            px-3
+            py-2
+            text-sm
+            hover:bg-gray-100
+          "
+
+
+          onClick={()=>
+            setSelectedRegion(null)
+          }
+
+        >
+
+          ← Back to regions
+
+        </button>
+
+      )}
+
+
 
     </div>
+
   );
+
 }
